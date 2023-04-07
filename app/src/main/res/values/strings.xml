@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AppIFoodJava</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="explore_more">Explore mais</string>
+    <string name="enter">Entrar ou cadastrar-se</string>
+
+    <string name="chip_ordenar">Ordenar</string>
+    <string name="chip_pra_retirar">Pra retirar</string>
+    <string name="chip_entrega_gratis">Entrega gratis</string>
+    <string name="chip_vale_refeicao">Vale refeição</string>
+    <string name="chip_distancia">Distância</string>
+    <string name="chip_entrega_parceira">Entrega parceira</string>
+    <string name="chip_super_restaurante">Super restaurante</string>
+    <string name="chip_filtros">Filtros</string>
+    <string name="famous">Famosos no IFood</string>
+    <string name="see_more">Ver mais</string>
+    <string name="shops">Lojas</string>
+    <string name="shop_category">\u2022 %1$s \u2022 %2$.1f k</string>
+    <string name="shop_price">%1$s min \u2022 R$ %2$.2f</string>
+    <string name="dotted">&#8226;</string>
+
+</resources>
